@@ -9,7 +9,7 @@
 ![AI](https://img.shields.io/badge/Applied-AI-7C3AED?style=for-the-badge)
 ![FDE](https://img.shields.io/badge/Forward%20Deployed-Engineering-059669?style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=googlechrome)](https://galabasivaprasad.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=googlechrome)](https://galabasivaprasad.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-prasad-galaba-81b261187/)
 
 </div>
 
@@ -17,18 +17,15 @@
 
 ## About Me
 
-I am a software engineering professional with 15+ years of
-experience across enterprise applications, software architecture,
-distributed systems and full-stack engineering.
+I am a software engineering professional with 15+ years of experience designing, building and scaling enterprise software systems.
 
-My current focus is Applied AI, Agentic AI and Forward Deployed
-Engineering — connecting complex enterprise challenges with
-practical, scalable and reliable technology solutions.
+My current engineering focus is Applied AI, Agentic AI and Forward Deployed Engineering, combining deep software engineering expertise with customer-centric problem-solving.
 
-I believe successful AI engineering goes beyond building
-prototypes. It requires understanding business problems,
-designing the right architecture, integrating with existing
-systems and measuring real-world outcomes.
+I focus on translating complex business challenges into practical AI solutions through technical discovery, solution architecture, rapid experimentation, enterprise integration and production deployment.
+
+My engineering interests span LLM-powered applications, agentic workflows, context engineering, MCP, distributed systems and AI reliability.
+
+I believe the true value of AI is measured not by the sophistication of a model, but by the business outcomes it enables.
 
 ## Core Engineering Focus
 
